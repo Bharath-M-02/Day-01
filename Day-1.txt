@@ -1,0 +1,8 @@
+Day 1
+
+2.Difference between HTTP/1.1 and HTTP/2
+
+HTTP/1.1 was released in 1989 whereas HTTP/2 was released in 2015.
+HTTP/1.1 loads the resources one after the other, thereby delay in displaying the information (images, videos, graphics etc).
+HTTP/2 loads the resources faster, thereby displaying the information faster than HTTP/1.1
+
